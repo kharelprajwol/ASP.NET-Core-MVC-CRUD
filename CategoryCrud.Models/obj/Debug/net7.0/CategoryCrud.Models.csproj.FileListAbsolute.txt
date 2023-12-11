@@ -1,0 +1,11 @@
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\bin\Debug\net7.0\CategoryCrud.Models.deps.json
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\bin\Debug\net7.0\CategoryCrud.Models.dll
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\bin\Debug\net7.0\CategoryCrud.Models.pdb
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\CategoryCrud.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\CategoryCrud.Models.AssemblyInfoInputs.cache
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\CategoryCrud.Models.AssemblyInfo.cs
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\CategoryCrud.Models.csproj.CoreCompileInputs.cache
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\CategoryCrud.Models.dll
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\refint\CategoryCrud.Models.dll
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\CategoryCrud.Models.pdb
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\ref\CategoryCrud.Models.dll

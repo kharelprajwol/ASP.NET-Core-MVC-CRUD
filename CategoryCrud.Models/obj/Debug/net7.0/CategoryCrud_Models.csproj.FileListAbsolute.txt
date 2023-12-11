@@ -1,0 +1,22 @@
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\bin\Debug\net7.0\CategoryCrud_Models.deps.json
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\bin\Debug\net7.0\CategoryCrud_Models.dll
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\bin\Debug\net7.0\CategoryCrud_Models.pdb
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\CategoryCrud_Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\CategoryCrud_Models.AssemblyInfoInputs.cache
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\CategoryCrud_Models.AssemblyInfo.cs
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\CategoryCrud_Models.csproj.CoreCompileInputs.cache
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\CategoryCrud_Models.dll
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\refint\CategoryCrud_Models.dll
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\CategoryCrud_Models.pdb
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\ref\CategoryCrud_Models.dll
+F:\.NET\CategoryCrud\CategoryCrud.Models\bin\Debug\net7.0\CategoryCrud_Models.deps.json
+F:\.NET\CategoryCrud\CategoryCrud.Models\bin\Debug\net7.0\CategoryCrud_Models.dll
+F:\.NET\CategoryCrud\CategoryCrud.Models\bin\Debug\net7.0\CategoryCrud_Models.pdb
+F:\.NET\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\CategoryCrud_Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\CategoryCrud_Models.AssemblyInfoInputs.cache
+F:\.NET\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\CategoryCrud_Models.AssemblyInfo.cs
+F:\.NET\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\CategoryCrud_Models.csproj.CoreCompileInputs.cache
+F:\.NET\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\CategoryCrud_Models.dll
+F:\.NET\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\refint\CategoryCrud_Models.dll
+F:\.NET\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\CategoryCrud_Models.pdb
+F:\.NET\CategoryCrud\CategoryCrud.Models\obj\Debug\net7.0\ref\CategoryCrud_Models.dll

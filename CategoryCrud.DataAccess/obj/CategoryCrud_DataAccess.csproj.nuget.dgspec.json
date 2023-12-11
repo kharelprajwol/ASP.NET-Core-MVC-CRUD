@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\.NET\\CategoryCrud\\CategoryCrud.DataAccess\\CategoryCrud_DataAccess.csproj": {}
+  },
+  "projects": {
+    "F:\\.NET\\CategoryCrud\\CategoryCrud.DataAccess\\CategoryCrud_DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\.NET\\CategoryCrud\\CategoryCrud.DataAccess\\CategoryCrud_DataAccess.csproj",
+        "projectName": "CategoryCrud_DataAccess",
+        "projectPath": "F:\\.NET\\CategoryCrud\\CategoryCrud.DataAccess\\CategoryCrud_DataAccess.csproj",
+        "packagesPath": "C:\\Users\\xyzkh\\.nuget\\packages\\",
+        "outputPath": "F:\\.NET\\CategoryCrud\\CategoryCrud.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xyzkh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "F:\\.NET\\CategoryCrud\\CategoryCrud.Models\\CategoryCrud_Models.csproj": {
+                "projectPath": "F:\\.NET\\CategoryCrud\\CategoryCrud.Models\\CategoryCrud_Models.csproj"
+              },
+              "F:\\.NET\\CategoryCrud\\CategoryCrud.Utility\\CategoryCrud_Utility.csproj": {
+                "projectPath": "F:\\.NET\\CategoryCrud\\CategoryCrud.Utility\\CategoryCrud_Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\.NET\\CategoryCrud\\CategoryCrud.Models\\CategoryCrud_Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\.NET\\CategoryCrud\\CategoryCrud.Models\\CategoryCrud_Models.csproj",
+        "projectName": "CategoryCrud_Models",
+        "projectPath": "F:\\.NET\\CategoryCrud\\CategoryCrud.Models\\CategoryCrud_Models.csproj",
+        "packagesPath": "C:\\Users\\xyzkh\\.nuget\\packages\\",
+        "outputPath": "F:\\.NET\\CategoryCrud\\CategoryCrud.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xyzkh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\.NET\\CategoryCrud\\CategoryCrud.Utility\\CategoryCrud_Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\.NET\\CategoryCrud\\CategoryCrud.Utility\\CategoryCrud_Utility.csproj",
+        "projectName": "CategoryCrud_Utility",
+        "projectPath": "F:\\.NET\\CategoryCrud\\CategoryCrud.Utility\\CategoryCrud_Utility.csproj",
+        "packagesPath": "C:\\Users\\xyzkh\\.nuget\\packages\\",
+        "outputPath": "F:\\.NET\\CategoryCrud\\CategoryCrud.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xyzkh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

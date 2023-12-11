@@ -1,0 +1,29 @@
+﻿@model Category
+
+<form method="post">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Edit Category</h2>
+        </div>
+        @* <div asp-validation-summary="ModelOnly"></div> *@
+        <hr />
+        <div class="mb-3">
+            <label asp-for="Name" class="p-0"></label> @* Using asp-for tag helper now label will have content of Name *@
+            <input asp-for="Name" class="form-control" /> @* Using asp-for tag helper now input will automatically make type which is best to provide value for name *@
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="DisplayOrder" class="p-1"></label>
+            <input asp-for="DisplayOrder" class="form-control" />
+            <span asp-validation-for="DisplayOrder" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary" style="width:150px">Update</button>
+        <a asp-controller="Category" asp-action="Index" class="btn btn-secondary" style="width:150px">Back to List</a>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

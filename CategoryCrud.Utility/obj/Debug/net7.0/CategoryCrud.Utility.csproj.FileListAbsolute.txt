@@ -1,0 +1,11 @@
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\bin\Debug\net7.0\CategoryCrud.Utility.deps.json
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\bin\Debug\net7.0\CategoryCrud.Utility.dll
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\bin\Debug\net7.0\CategoryCrud.Utility.pdb
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\CategoryCrud.Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\CategoryCrud.Utility.AssemblyInfoInputs.cache
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\CategoryCrud.Utility.AssemblyInfo.cs
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\CategoryCrud.Utility.csproj.CoreCompileInputs.cache
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\CategoryCrud.Utility.dll
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\refint\CategoryCrud.Utility.dll
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\CategoryCrud.Utility.pdb
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\ref\CategoryCrud.Utility.dll

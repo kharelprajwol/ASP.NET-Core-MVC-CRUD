@@ -1,0 +1,22 @@
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\bin\Debug\net7.0\CategoryCrud_Utility.deps.json
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\bin\Debug\net7.0\CategoryCrud_Utility.dll
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\bin\Debug\net7.0\CategoryCrud_Utility.pdb
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\CategoryCrud_Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\CategoryCrud_Utility.AssemblyInfoInputs.cache
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\CategoryCrud_Utility.AssemblyInfo.cs
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\CategoryCrud_Utility.csproj.CoreCompileInputs.cache
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\CategoryCrud_Utility.dll
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\refint\CategoryCrud_Utility.dll
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\CategoryCrud_Utility.pdb
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\ref\CategoryCrud_Utility.dll
+F:\.NET\CategoryCrud\CategoryCrud.Utility\bin\Debug\net7.0\CategoryCrud_Utility.deps.json
+F:\.NET\CategoryCrud\CategoryCrud.Utility\bin\Debug\net7.0\CategoryCrud_Utility.dll
+F:\.NET\CategoryCrud\CategoryCrud.Utility\bin\Debug\net7.0\CategoryCrud_Utility.pdb
+F:\.NET\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\CategoryCrud_Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\CategoryCrud_Utility.AssemblyInfoInputs.cache
+F:\.NET\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\CategoryCrud_Utility.AssemblyInfo.cs
+F:\.NET\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\CategoryCrud_Utility.csproj.CoreCompileInputs.cache
+F:\.NET\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\CategoryCrud_Utility.dll
+F:\.NET\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\refint\CategoryCrud_Utility.dll
+F:\.NET\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\CategoryCrud_Utility.pdb
+F:\.NET\CategoryCrud\CategoryCrud.Utility\obj\Debug\net7.0\ref\CategoryCrud_Utility.dll

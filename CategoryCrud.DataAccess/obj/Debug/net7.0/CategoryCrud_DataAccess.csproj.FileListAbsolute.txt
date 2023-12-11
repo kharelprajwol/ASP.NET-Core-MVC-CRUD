@@ -1,0 +1,38 @@
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\CategoryCrud_DataAccess.csproj.AssemblyReference.cache
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\CategoryCrud_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\CategoryCrud_DataAccess.AssemblyInfoInputs.cache
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\CategoryCrud_DataAccess.AssemblyInfo.cs
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\CategoryCrud_DataAccess.csproj.CoreCompileInputs.cache
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.DataAccess\bin\Debug\net7.0\CategoryCrud_DataAccess.deps.json
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.DataAccess\bin\Debug\net7.0\CategoryCrud_DataAccess.runtimeconfig.json
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.DataAccess\bin\Debug\net7.0\CategoryCrud_DataAccess.dll
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.DataAccess\bin\Debug\net7.0\CategoryCrud_DataAccess.pdb
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.DataAccess\bin\Debug\net7.0\CategoryCrud_Models.dll
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.DataAccess\bin\Debug\net7.0\CategoryCrud_Utility.dll
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.DataAccess\bin\Debug\net7.0\CategoryCrud_Models.pdb
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.DataAccess\bin\Debug\net7.0\CategoryCrud_Utility.pdb
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\CategoryCrud_DataAccess.csproj.CopyComplete
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\CategoryCrud_DataAccess.dll
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\refint\CategoryCrud_DataAccess.dll
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\CategoryCrud_DataAccess.pdb
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\CategoryCrud_DataAccess.genruntimeconfig.cache
+F:\ASP.NET Core\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\ref\CategoryCrud_DataAccess.dll
+F:\.NET\CategoryCrud\CategoryCrud.DataAccess\bin\Debug\net7.0\CategoryCrud_DataAccess.deps.json
+F:\.NET\CategoryCrud\CategoryCrud.DataAccess\bin\Debug\net7.0\CategoryCrud_DataAccess.runtimeconfig.json
+F:\.NET\CategoryCrud\CategoryCrud.DataAccess\bin\Debug\net7.0\CategoryCrud_DataAccess.dll
+F:\.NET\CategoryCrud\CategoryCrud.DataAccess\bin\Debug\net7.0\CategoryCrud_DataAccess.pdb
+F:\.NET\CategoryCrud\CategoryCrud.DataAccess\bin\Debug\net7.0\CategoryCrud_Models.dll
+F:\.NET\CategoryCrud\CategoryCrud.DataAccess\bin\Debug\net7.0\CategoryCrud_Utility.dll
+F:\.NET\CategoryCrud\CategoryCrud.DataAccess\bin\Debug\net7.0\CategoryCrud_Models.pdb
+F:\.NET\CategoryCrud\CategoryCrud.DataAccess\bin\Debug\net7.0\CategoryCrud_Utility.pdb
+F:\.NET\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\CategoryCrud_DataAccess.csproj.AssemblyReference.cache
+F:\.NET\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\CategoryCrud_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\CategoryCrud_DataAccess.AssemblyInfoInputs.cache
+F:\.NET\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\CategoryCrud_DataAccess.AssemblyInfo.cs
+F:\.NET\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\CategoryCrud_DataAccess.csproj.CoreCompileInputs.cache
+F:\.NET\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\CategoryCrud_DataAccess.csproj.CopyComplete
+F:\.NET\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\CategoryCrud_DataAccess.dll
+F:\.NET\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\refint\CategoryCrud_DataAccess.dll
+F:\.NET\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\CategoryCrud_DataAccess.pdb
+F:\.NET\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\CategoryCrud_DataAccess.genruntimeconfig.cache
+F:\.NET\CategoryCrud\CategoryCrud.DataAccess\obj\Debug\net7.0\ref\CategoryCrud_DataAccess.dll

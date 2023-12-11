@@ -1,0 +1,24 @@
+﻿@model Category
+
+<form method="post">
+    <input asp-for="Id" hidden />
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Delete Category</h2>
+        </div>
+        @* <div asp-validation-summary="ModelOnly"></div> *@
+        <hr />
+        <div class="mb-3">
+            <label asp-for="Name" class="p-0"></label> @* Using asp-for tag helper now label will have content of Name *@
+            <input asp-for="Name" disabled class="form-control" /> @* Using asp-for tag helper now input will automatically make type which is best to provide value for name *@
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="DisplayOrder" class="p-1"></label>
+            <input asp-for="DisplayOrder" disabled class="form-control" />
+            <span asp-validation-for="DisplayOrder" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-danger" style="width:150px">Delete</button>
+        <a asp-controller="Category" asp-action="Index" class="btn btn-secondary" style="width:150px">Back to List</a>
+    </div>
+</form>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CategoryCrud.Web.props" />
+</Project>
